@@ -4,9 +4,9 @@
 <h3 align="center">Passionate for innovation, A boy trying to be Plus Ultra!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MacharlaLeelaram&label=Profile%20views&color=0e75b6&style=flat" alt="MacharlaLeelaram" /> </p>
-<a href="#MacharlaLeelaram-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=MacharlaLeelaram&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="MacharlaLeelaram" align="right" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MacharlaLee;aram&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</div>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"26
 
