@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MacharlaLeelaram&label=Profile%20views&color=0e75b6&style=flat" alt="MacharlaLeelaram" /> </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MacharlaLee;aram&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MacharlaLeelaram&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </div>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"26
