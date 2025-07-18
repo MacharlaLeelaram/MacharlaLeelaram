@@ -4,11 +4,6 @@
 <h3 align="center">Passionate for innovation, A boy trying to be Plus Ultra!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MacharlaLeelaram&label=Profile%20views&color=0e75b6&style=flat" alt="MacharlaLeelaram" /> </p>
-<div align="center">
-
-  [![GitHub Streak](https://github-readme-streak-stats-jet-one.vercel.app?user=MacharlaLeelaram&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"26
 
@@ -197,6 +192,11 @@
     
 </table>
 
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats-jet-one.vercel.app?user=MacharlaLeelaram&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 <table align="center">
   <tr>
